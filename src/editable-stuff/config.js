@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Sanath Acharya. <This space is under development>.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1h30AfQxLBuwLmiXE6qmluUX0VILvArZq",
 };
 
 // PROJECTS SECTION
