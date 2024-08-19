@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1a3edc1.css",
+    "main.js": "/static/js/main.889518a9.js",
+    "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
+    "static/media/sanathacharya.png": "/static/media/sanathacharya.428d810dac7b98542957.png",
+    "index.html": "/index.html",
+    "main.b1a3edc1.css.map": "/static/css/main.b1a3edc1.css.map",
+    "main.889518a9.js.map": "/static/js/main.889518a9.js.map",
+    "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a3edc1.css",
+    "static/js/main.889518a9.js"
+  ]
+}
