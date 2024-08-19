@@ -129,7 +129,7 @@ const getInTouch = {
     "I'm Sanath Acharya, the creator of this website built to satisfy my curisoty and passion for exploring latest technologies.\n\
     Through this project, I've delved into the backend, frontend, and embraced newer innovations,\n\
     all in pursuit of expanding my knowledge and skills in website management. Join me in this exciting journey of discovery and innovation.\n\
-    You can reach out to me on: ",
+    You can reach out to me on",
   email: "sanathacharya1996@gmail.com",
 };
 
