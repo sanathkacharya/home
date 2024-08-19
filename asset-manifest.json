@@ -10,7 +10,7 @@
     "787.4b24f717.chunk.js.map": "/build/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
-    "/buildstatic/css/main.fe927caf.css",
-    "/buildstatic/js/main.6545c892.js"
+    "build/static/css/main.fe927caf.css",
+    "build/static/js/main.6545c892.js"
   ]
 }
