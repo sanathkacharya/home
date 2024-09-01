@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Sanath",
   middleName: "",
   lastName: "Acharya",
-  message: " <This space is under development> ",
+  message: "Welcome to my digital corner of the world.",
   icons: [
     {
       image: "fa-github",
@@ -35,18 +35,6 @@ const mainBody = {
 };
 
 // ABOUT SECTION
-// If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
-//a) your Instagram username
-//      i.e:profilePictureLink:"johnDoe123",
-//b) a link to an hosted image
-//      i.e:profilePictureLink:"www.picturesonline.com/johnDoeFancyAvatar.jpg",
-//c) image in "editable-stuff" directory and use require("") to import here,
-//      i.e: profilePictureLink: require("../editable-stuff/hashhirshoaeb.png"),
-//d) If you do not want any picture to be displayed, just leave it empty :)
-//      i.e: profilePictureLink: "",
-// For Resume either provide link to your resume or import from "editable-stuff" directory
-//     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: link to resume,
 
 const about = {
   show: true,
@@ -54,7 +42,13 @@ const about = {
   imageLink: require("../editable-stuff/sanathacharya.png"),
   imageSize: 375,
   message:
-    "My name is Sanath Acharya. <This space is under development>.",
+    "Hello there! I'm Sanath Acharya, a curious mind with a passion for turning ideas into reality.\n\n" +
+    "What started as a childhood fascination with the blinking cursor on my first computer has evolved into a fulfilling " +
+    "career in technology. With over half a decade of hands-on experience in numerous technology, I've had the privilege " +
+    "of working with diverse teams to build innovative solutions that solve real-world problems.\n\n" +
+    "When I'm not immersed in lines of code, you can find me exploring the great outdoors, experimenting with new recipes " +
+    "in the kitchen, or playing badminton or just binge watching a show.\n\n" +
+    "I believe in living a balanced life that fuels both my professional and personal passions.",
   resume: "https://drive.google.com/file/d/1h30AfQxLBuwLmiXE6qmluUX0VILvArZq",
 };
 
@@ -128,7 +122,7 @@ const getInTouch = {
   message:
     "I'm Sanath Acharya, the creator of this website built to satisfy my curisoty and passion for exploring latest technologies.\n\
     Through this project, I've delved into the backend, frontend, and embraced newer innovations,\n\
-    all in pursuit of expanding my knowledge and skills in website management. Join me in this exciting journey of discovery and innovation.\n\
+    all in pursuit of expanding my knowledge and skills in website management.\nJoin me in this exciting journey of discovery and innovation.\n\
     You can reach out to me on",
   email: "sanathacharya1996@gmail.com",
 };
